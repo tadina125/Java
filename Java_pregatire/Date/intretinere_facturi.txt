@@ -1,0 +1,4 @@
+Gaze naturale,persoane,140
+Apă caldă,persoane,500
+Căldură,suprafață,300
+Gunoi,apartament,100
